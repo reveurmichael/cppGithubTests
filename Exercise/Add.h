@@ -1,7 +1,3 @@
-//
-// Created by 15913 on 2022/8/31.
-//
-
 #ifndef SIMPLETEST_ADD_H
 #define SIMPLETEST_ADD_H
 
